@@ -1,0 +1,18 @@
+ls --->> list directory
+cd --->> change directory
+ctrl + l --->> scroll down to clr scrn
+cd ../ --->> back to prv directory
+mkdir --->> make directory
+rm --->> remove directory
+code . --->> open current directory in vs code
+pwd --->> print current directory path
+touch --->> create new file multiple files also
+mv --->> move file , multiple files also ./folder-name
+git init --->> initialise repository
+git add --->> add files to staging area
+git status --->> see files status wether staging area or change area
+git status -s--->> see files status wether staging area or change area Shortcut
+git commit -m "message" -->> commit with a message
+git log  -->> see all commits 'To go back press Q'
+git checkout  -->> to check various commit files 'commit id' to go back 'master'
+git branch -->> check list of branches and also create branches
