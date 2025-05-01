@@ -16,3 +16,4 @@ git commit -m "message" -->> commit with a message
 git log  -->> see all commits 'To go back press Q'
 git checkout  -->> to check various commit files 'commit id' to go back 'master'
 git branch -->> check list of branches and also create branches
+git log --all --oneline -->>see all commits of all branches in one line
