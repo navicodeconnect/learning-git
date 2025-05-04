@@ -17,3 +17,5 @@ git log  -->> see all commits 'To go back press Q'
 git checkout  -->> to check various commit files 'commit id' to go back 'master'
 git branch -->> check list of branches and also create branches
 git merge -->> merge branches
+git reset --hard -->> reset commits
+git reflog  -->> to log all commits even deleted ones
